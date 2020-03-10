@@ -1,3 +1,5 @@
+**Deprecated: If you want to learn about Firebase in React, check out [The Road to Firebase](https://www.roadtofirebase.com/).**
+
 # React Firebase Chat Example
 
 [![Build Status](https://travis-ci.org/the-road-to-learn-react/react-firebase-chat.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-firebase-chat) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-learn-react/react-firebase-chat.svg)](https://greenkeeper.io/)
